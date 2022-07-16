@@ -1,0 +1,233 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.header-sec {
+  background-image: linear-gradient(to left, rgba(0, 0, 0, 0.2), rgb(8, 8, 8)),
+    url(images/donation13.jpg);
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.head-body {
+  color: cornsilk;
+  padding-top: 15%;
+  padding-left: 15%;
+}
+.head-body h1 {
+  font-weight: 800;
+  font-size: 45px;
+  width: 40%;
+}
+.head-body p {
+  font-size: 20px;
+  width: 40%;
+  margin-top: 20px;
+  padding-bottom: 50px;
+}
+
+.link-button {
+  text-decoration: none;
+  color: cornsilk;
+  background-color: cornflowerblue;
+  padding: 15px 25px;
+  border-radius: 5px;
+  font-size: 20px;
+}
+
+.first-mainpart {
+  display: flex;
+  margin-top: 100px;
+}
+.first-body {
+  width: 50%;
+  padding-left: 15%;
+}
+.first-imgbody {
+  width: 50%;
+  padding-right: 10%;
+}
+.first-body h1 {
+  padding-top: 10%;
+  font-size: 40px;
+  font-weight: 700;
+  width: 90%;
+}
+
+.first-body p {
+  padding-top: 15px;
+  font-size: 18px;
+  color: gray;
+  width: 80%;
+}
+
+.for-bottompadding {
+  padding-bottom: 50px;
+}
+
+.third-main {
+  display: flex;
+  margin-top: 100px;
+}
+.third-first-main {
+  width: 50%;
+  padding-left: 14%;
+}
+
+.third-2nd-main {
+  width: 50%;
+  padding-right: 40px;
+}
+
+.third-2nd-main h1 {
+  padding-top: 10%;
+  font-size: 45px;
+  font-weight: 700;
+  width: 60%;
+}
+.third-2nd-main p {
+  padding-top: 15px;
+  font-size: 18px;
+  color: gray;
+  width: 80%;
+}
+
+.forth-first-main {
+  text-align: center;
+  margin-top: 100px;
+  width: 60%;
+  margin-bottom: 3%;
+}
+
+.forth-first-main h1 {
+  font-size: 40px;
+  width: 60%;
+  margin-left: 60%;
+}
+
+.forth-first-main p {
+  width: 80%;
+  margin-left: 50%;
+  padding-top: 10px;
+}
+.cart-section {
+  display: flex;
+
+  margin-left: 15%;
+  margin-right: 15%;
+}
+#img-width {
+  width: 60px;
+}
+
+.cart-width {
+  width: 50%;
+  background-color: rgba(180, 206, 231, 0.171);
+  margin-left: 5%;
+  padding-top: 40px;
+  padding-left: 30px;
+  border-radius: 10px;
+  padding-bottom: 40px;
+  margin-bottom: 20px;
+}
+
+.cart-material-section {
+  display: flex;
+  padding-right: 10px;
+}
+
+.cart-side-section {
+  width: 50%;
+}
+
+.cart-left-section {
+  padding-left: 8%;
+  padding-right: 5%;
+}
+.cart-left-section h3 {
+  font-size: 22px;
+}
+
+.cart-left-section p {
+  color: gray;
+  font-size: 16px;
+  padding-top: 10px;
+}
+
+.img-section {
+  display: flex;
+  margin-left: 100px;
+  margin-top: 10%;
+}
+.img-cart {
+  margin-left: 18px;
+}
+.six-first-main {
+  text-align: center;
+  margin-top: 100px;
+  width: 60%;
+  margin-bottom: 3%;
+}
+
+.six-first-main h1 {
+  font-size: 40px;
+  width: 90%;
+  margin-left: 40%;
+}
+
+.six-first-main p {
+  width: 80%;
+  margin-left: 50%;
+  padding-top: 10px;
+  color: grey;
+}
+.img-div {
+  display: flex;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-bottom: 100px;
+}
+
+.img-content {
+  width: 50%;
+  margin-left: 25px;
+  border: 1px solid rgba(128, 128, 128, 0.247);
+  border-radius: 12px;
+}
+
+.img-content img {
+  width: 100%;
+  border-radius: 10px 10px 0px 0px;
+}
+.img-cart-section {
+  padding-left: 10%;
+  padding-top: 5%;
+  padding-bottom: 40px;
+}
+
+.img-cart-section h2 {
+  padding-bottom: 5px;
+}
+
+.img-cart-section p {
+  padding-bottom: 20px;
+}
+.link-but {
+  color: rgb(14, 139, 177);
+}
+
+.foot-section {
+  background-color: rgba(180, 206, 231, 0.171);
+  padding-top: 40px;
+  padding-bottom: 40px;
+  text-align: center;
+}
+
+.foot-section h1 {
+  color: cornflowerblue;
+}
